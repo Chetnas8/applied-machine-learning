@@ -16,5 +16,8 @@ This repository documents our final-year B.E. project at Dr. D. Y. Patil School 
 ✅ Emoji mapping and display  
 ✅ Detailed documentation of methodology, dataset, and design
 
+## 🚧 Current Status
+- Published.
+
 
 
