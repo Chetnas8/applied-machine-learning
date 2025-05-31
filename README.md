@@ -1,6 +1,6 @@
 # Emojify: Create Your Own Emoji with Deep Learning
 
-This repository documents our final-year B.E. project at Dr. D. Y. Patil School of Engineering, Pune. Our project focuses on **real-time human emotion detection** using deep learning and maps facial expressions to **emojis** for intuitive feedback.
+Our project focuses on **real-time human emotion detection** using deep learning and maps facial expressions to **emojis** for intuitive feedback.
 
 ✨ **Project Highlights**
 - Trained a Convolutional Neural Network (CNN) on the **FER2013 dataset** to classify facial expressions into seven categories: angry, disgust, fear, happy, neutral, sad, and surprise.
